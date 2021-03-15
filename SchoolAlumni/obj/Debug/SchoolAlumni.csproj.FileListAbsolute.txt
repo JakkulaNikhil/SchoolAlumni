@@ -77,3 +77,9 @@ C:\Users\jakku\Source\Repos\SchoolAlumni\SchoolAlumni\obj\Debug\SchoolAlumni.csp
 C:\Users\jakku\Source\Repos\SchoolAlumni\SchoolAlumni\obj\Debug\SchoolAlumni.csproj.CopyComplete
 C:\Users\jakku\Source\Repos\SchoolAlumni\SchoolAlumni\obj\Debug\SchoolAlumni.dll
 C:\Users\jakku\Source\Repos\SchoolAlumni\SchoolAlumni\obj\Debug\SchoolAlumni.pdb
+C:\Users\jakku\Source\Repos\SchoolAlumni\SchoolAlumni\bin\EntityFramework.dll
+C:\Users\jakku\Source\Repos\SchoolAlumni\SchoolAlumni\bin\EntityFramework.SqlServer.dll
+C:\Users\jakku\Source\Repos\SchoolAlumni\SchoolAlumni\bin\System.Data.SqlClient.dll
+C:\Users\jakku\Source\Repos\SchoolAlumni\SchoolAlumni\bin\EntityFramework.xml
+C:\Users\jakku\Source\Repos\SchoolAlumni\SchoolAlumni\bin\EntityFramework.SqlServer.xml
+C:\Users\jakku\Source\Repos\SchoolAlumni\SchoolAlumni\bin\System.Data.SqlClient.xml
